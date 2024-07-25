@@ -6,7 +6,5 @@ Under construction!
 
 ![Important Image](https://hdlcmath.github.io/docs/assets/images/pizza_dance.gif)
 
-<figure out mathjax or something...>
-
 # Publications
 TBA
