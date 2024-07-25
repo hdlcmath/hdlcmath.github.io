@@ -3,9 +3,9 @@ Numerical analysis (Spectral methods), applied differential equations (ODE model
 
 # Test
 Under construction!
-![Important Image]{/docs/assets/images/pizza_dance.gif}
 
-$\phi$
+![Important Image]{./docs/assets/images/pizza_dance.gif}
+
 
 # Publications
 TBA
