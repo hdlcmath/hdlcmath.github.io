@@ -1,2 +1,3 @@
-# hdlcmath.github.io
-Personal website for Hunter La Croix's research
+:theme:jekyll-theme-midnight
+
+# Hunter La Croix
