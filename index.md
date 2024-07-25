@@ -4,7 +4,7 @@ Numerical analysis (Spectral methods), applied differential equations (ODE model
 # Test
 Under construction!
 
-![Important Image]{https://hdlcmath.github.io/docs/assets/images/pizza_dance.gif}
+![Important Image](https://hdlcmath.github.io/docs/assets/images/pizza_dance.gif)
 
 
 # Publications
