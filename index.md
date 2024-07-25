@@ -6,7 +6,7 @@ Under construction!
 
 ![Important Image](https://hdlcmath.github.io/docs/assets/images/pizza_dance.gif)
 
-$\sum_{n=0}^\infty sin(n \theta)$
+<figure out mathjax or something...>
 
 # Publications
 TBA
