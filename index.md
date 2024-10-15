@@ -8,4 +8,4 @@ Under construction!
 
 
 # Publications
-TBA
+Dinesh Ekanayake, **Hunter La Croix**, Amy Ekanayake. Alternative stable states and disease induced extinction. Mathematical Modelling of Natural Phenomena 19 (2024): 18-33.
