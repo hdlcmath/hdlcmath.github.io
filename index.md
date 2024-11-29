@@ -1,5 +1,5 @@
 # Research Interests
-Numerical Analysis: Collocation methods for elliptic/parabolic PDE's (Pseudospectral/Method of Fundamental Solutions)
+Numerical Analysis: Collocation methods for elliptic/parabolic PDE's (Pseudospectral/Method of Fundamental Solutions/Rational approximations)
 
 # Test
 Under construction!
