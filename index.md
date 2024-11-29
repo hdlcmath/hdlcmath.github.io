@@ -1,5 +1,5 @@
 # Research Interests
-Numerical analysis (Spectral methods), applied differential equations (ODE models/dynamical systems and PDE models)
+Numerical Analysis: Collocation methods for elliptic/parabolic PDE's (Pseudospectral/Method of Fundamental Solutions)
 
 # Test
 Under construction!
