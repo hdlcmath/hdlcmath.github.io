@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Hunter La Croix
-description: hlacroix@nd.edu <br> test
+description: hlacroix@nd.edu <br> Schmitt fellow at the University of Notre Dame studying applied mathematics under <a href="https://www.aelindsay.com//">Dr. Alan Lindsay</a>
