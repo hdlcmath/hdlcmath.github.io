@@ -1,6 +1,9 @@
 # Research Interests
 I am a third year PhD student so I am still branching out. At the moment, my interests concern the numerical analysis or scientific computing of rational approximations, or mesh-free methods more broadly.
 
+![Faraday Cage](docs/assets/images/faraday.gif)
+![Springer Logo](docs/assets/images/springer.gif)
+
 # Publications
 
 **Hunter La Croix**, Alan E. Lindsay. *The Lightning Method for the Heat Equation.* Preprint. [pdf](https://www3.nd.edu/~alindsa1/Publications/LightningHeat.pdf)
