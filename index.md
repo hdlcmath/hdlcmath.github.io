@@ -3,6 +3,8 @@ I am a third year PhD student so I am still branching out. At the moment, my int
 
 ![Faraday Cage](docs/assets/images/faraday.gif)
 ![Springer Logo](docs/assets/images/springer.gif)
+![8 Shapes](docs/assets/images/eightshapes.gif)
+
 
 # Publications
 
