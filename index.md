@@ -1,5 +1,5 @@
 # Research Interests
-I am a third year PhD student so I am still branching out. At the moment, my interests concern the numerical analysis or scientific computing of rational approximations, or mesh-free methods more broadly.
+Numerical analysis or scientific computing of rational approximations, mesh-free methods. Open to learning more about numerical integral methods or methods that necessitate implementation of methods from numerical linear algebra.
 
 ![Faraday Cage](docs/assets/images/faraday.gif)
 ![Springer Logo](docs/assets/images/springer.gif)
