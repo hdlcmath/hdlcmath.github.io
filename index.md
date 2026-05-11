@@ -1,5 +1,5 @@
 # Research Interests
-Numerical analysis or scientific computing of rational approximations, mesh-free methods. Open to learning more about numerical integral methods or methods that necessitate implementation of methods from numerical linear algebra.
+Numerical analysis or scientific computing of rational approximations/mesh-free methods. Open to learning more about numerical integral methods and numerical linear algebra.
 
 ![Faraday Cage](docs/assets/images/faraday.gif)
 ![Springer Logo](docs/assets/images/springer.gif)
