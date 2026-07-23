@@ -1,5 +1,5 @@
 # Research Interests
-Numerical analysis or scientific computing of rational approximations/mesh-free methods. Open to learning more about numerical integral methods and numerical linear algebra.
+Numerical analysis or scientific computing of rational approximations/mesh-free methods for linear PDE, numerical integral transform methods, numerical linear algebra.
 
 ![Faraday Cage](docs/assets/images/faraday.gif)
 ![Springer Logo](docs/assets/images/springer.gif)
@@ -14,4 +14,10 @@ Dinesh Ekanayake, **Hunter La Croix**, Amy Ekanayake. *Alternative stable states
 
 # Talks
 
-**Hunter La Croix**, Alan Lindsay. *The lightning method for the solution of planar diffusion equations with applications to chemical signaling.* SIAM AN25 MS111 Recent Advances in Pattern Formation in PDE's part II, Montreal, QC. July 2025.
+**Hunter La Croix**, Alan Lindsay. "A Lightning Solver for the Solution of Planar Diffusion Equations with Applications to Chemical Signaling." SIAM LS26 MS35, Stochastic Transport and Resource Accumulation in Biology Part III, Cleveland, OH. July 2026.
+
+**Hunter La Croix**, Alan Lindsay. "A Lightning Heat Solver." NAHOM 2026, Function Approximation and Sampling, Santa Fe NM. June 2026.
+
+**Hunter La Croix**, Alan Lindsay. "A Lightning Solver for the Solution of Planar Diffusion Equations." Midwest Numerical Analysis Day 2026, Notre Dame, IN. April 2026.
+
+**Hunter La Croix**, Alan Lindsay. *The Lightning Method for the Solution of Planar Diffusion Equations with Applications to Chemical Signaling.* SIAM AN25 MS111, Recent Advances in Pattern Formation in PDE's part II, Montreal, QC. July 2025.
