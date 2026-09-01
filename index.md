@@ -14,6 +14,8 @@ Dinesh Ekanayake, **Hunter La Croix**, Amy Ekanayake. *Alternative stable states
 
 # Talks
 
+**Hunter La Croix**, Alan Lindsay. "Least-Squares Series Solutions to PDE'sin First Passage Time Problems." Advances in Asymptotic Analysis and Numerical Methods for First Passage Time Problems in Biology, Kylemore Abbey, Ireland. August 2026.
+
 **Hunter La Croix**, Alan Lindsay. "A Lightning Solver for the Solution of Planar Diffusion Equations with Applications to Chemical Signaling." SIAM LS26 MS35, Stochastic Transport and Resource Accumulation in Biology Part III, Cleveland, OH. July 2026.
 
 **Hunter La Croix**, Alan Lindsay. "A Lightning Heat Solver." NAHOM 2026, Function Approximation and Sampling, Santa Fe NM. June 2026.
