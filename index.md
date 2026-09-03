@@ -1,7 +1,7 @@
 # Research Interests
 Numerical analysis or scientific computing of rational approximations/mesh-free methods for linear PDE, numerical integral transform methods, numerical linear algebra.
 
-![Faraday Cage](docs/assets/images/faraday.gif)
+![Faraday Cage](docs/assets/images/spinning_faraday.gif)
 ![Springer Logo](docs/assets/images/springer.gif)
 ![8 Shapes](docs/assets/images/eightshapes.gif)
 
